@@ -3,17 +3,17 @@ Spring Boot 2 migration demo based on RESTful Endpoints.
 This project was created with Spring Initializer and imported into Intellij Idea.
 
 Run main class: LearnReactivespringApplication, then from either the Postman app or through your browser type the following Get requests to test the respons from the local server:
-
-http://localhost:8080/mono
-http://localhost:8080/monolist
-http://localhost:8080/flux
-http://localhost:8080/fluxstream
-http://localhost:8080/fluxlist
-http://localhost:8080/fluxliststream
+http://localhost:8080
+/mono
+/monolist
+/flux
+/fluxstream
+/fluxlist
+/fluxliststream
 
 Router:
-http://localhost:8080/functional/flux
-http://localhost:8080/functional/mono
+/functional/flux
+/functional/mono
 
 Added notes for creating a Spring Boot project
 
